@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogeshwari Jhala</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img  height="400px" width="500px" src="[https://cdn.dribbble.com/users/4611365/screenshots/12285564/media/3fc0b76d6170cdfe286a2ac697b758a2.gif](https://cdn.dribbble.com/users/4611365/screenshots/12285564/media/3fc0b76d6170cdfe286a2ac697b758a2.gif)" alt="coder"/>
+<img  height="400px" width="500px" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/media/db94bb1a6ce53ad017fdda3c479186c9.gif" alt="coder"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshwari-jhala&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwari-jhala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwari-jhala" alt="yogeshwari-jhala" /></a> </p>
